@@ -16,3 +16,7 @@
 ## ▶️ Запуск
 ```bash
 python main.py
+
+
+## Пример с работы
+![Screenshot](screenshot.png.jpg)
